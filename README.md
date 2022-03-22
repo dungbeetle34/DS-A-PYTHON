@@ -1,6 +1,6 @@
 # Data Structures & Algorithms written in **Python**
 
-### Data Structures
+## Data Structures
 
 1. **Arrays**
     - Static
@@ -36,4 +36,4 @@
     - dequeue O(1)
     - peek O(1)
 
-### Algorithms
+## Algorithms
